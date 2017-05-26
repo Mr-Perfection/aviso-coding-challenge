@@ -6,3 +6,5 @@ This is a pure, **delicious** vanilla JS code. Most of the hard work is done in 
 **[DEMO](https://aviso-challenge.herokuapp.com/index.html)**
 
 Enjoy!
+
+
